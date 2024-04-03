@@ -1,5 +1,6 @@
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=derek-zhang123&show_icons=true&theme=tokyonight" /> </div>
 
+<div align="center"> <img src="https://profile-counter.glitch.me/derek-zhang123/count.svg" /> </div>
 
 <span > 
   <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%2342b883?style=flat-square&logo=Vue&logoColor=%23fff"> 
