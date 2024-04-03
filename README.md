@@ -4,7 +4,7 @@
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=derek-zhang123&show_icons=true&theme=tokyonight" /> </div>
 
 
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+访问总人数：![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
 
 
 <span > 
