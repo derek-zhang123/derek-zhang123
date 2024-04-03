@@ -1,10 +1,6 @@
 # Hi, 👋 I'm zhang_derek
-- 目前正在学习Windows和Android逆向
+- 目前正在学习Windows内核和Android逆向
 - 联系方式：1184405959@qq.com
-
-# 访问人数
-欢迎，你是我的![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)访客，谢谢您！🎉🎉
-
 
 # My GitHub Stats
 
