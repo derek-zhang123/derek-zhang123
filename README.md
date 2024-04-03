@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=你是真的菜啊!&center=true&font=Roboto&size=27" /></div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=不积跬步,无以至千里;不积小流,无以成江海&center=true&font=Roboto&size=27" /></div>
 
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=derek-zhang123&show_icons=true&theme=tokyonight" /> </div>
