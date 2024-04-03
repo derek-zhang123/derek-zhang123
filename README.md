@@ -11,15 +11,6 @@
 
 #Languaues
 <span > 
-  <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%2342b883?style=flat-square&logo=Python&logoColor=%23fff"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%230072b3?style=flat-square&logo=Django&logoColor=%23fff"> 
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=C++&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=Android逆向&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=Windows逆向" /> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/Webpack-%230072b3?style=flat-square&logo=内核&logoColor=%23fff"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/Vite-%239a60fe?style=flat-square&logo=Frida&logoColor=%23fff"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/Sass-%23c66394?style=flat-square&logo=Unidbg&logoColor=%23fff"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=爬虫&logoColor=white"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">  
+  https://img.shields.io/badge/django
 </span>
 
