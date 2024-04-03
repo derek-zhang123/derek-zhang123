@@ -3,6 +3,10 @@
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=derek-zhang123&show_icons=true&theme=tokyonight" /> </div>
 
+
+![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+
+
 <span > 
   <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%2342b883?style=flat-square&logo=Vue&logoColor=%23fff"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%230072b3?style=flat-square&logo=TypeScript&logoColor=%23fff"> 
