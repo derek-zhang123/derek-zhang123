@@ -1,5 +1,5 @@
 ## I'm zhang_derek
-- 目前正在学习Windows内核和Android逆向
+- 目前正在学习网络安全和Windows逆向
 - 联系方式：1184405959@qq.com
 ## Language
 <p>
