@@ -1,5 +1,5 @@
 ## I'm zhang_derek
-- Windows逆向和Android学习
+- Windows内核和VT调试器学习
 - QQ群：495694319
 - Gitbook笔记：https://derek-zhang.gitbook.io/reverse
 - 博客：www.cnblogs.com/derek1184405959/
